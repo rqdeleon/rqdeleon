@@ -27,7 +27,6 @@ If you'd prefer to connect directly, I can be reached at yazzodeleon@gmail.com.
 [![Git][git-icon]][git-url]
 [![NPM][npm-icon]][npm-url]
 [![NodeJS][nodejs-icon]][nodejs-url]
-[![Jira][jira-icon]][jira-url]
 
 ## 👨‍💻 My Projects
 
@@ -78,7 +77,7 @@ If you'd prefer to connect directly, I can be reached at yazzodeleon@gmail.com.
 [shadcn-url]: https://ui.shadcn.com
 [typescript-icon]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org/
-[react-icon]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
+[react-icon]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black
 [react-url]: https://react.dev/
 [postgresql-icon]: https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
 [postgresql-url]: https://www.postgresql.org/
