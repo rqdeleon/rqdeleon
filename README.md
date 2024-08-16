@@ -69,7 +69,7 @@ If you'd prefer to connect directly, I can be reached at yazzodeleon@gmail.com.
 
 
 [nextjs-icon]: https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=vercel&logoColor=white
-[nextjs-url]: https://nextjs.org/)
+[nextjs-url]: https://nextjs.org/
 [sanity-icon]: https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white
 [sanity-url]: https://sanity.io
 [tailwindCSS-icon]: https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
