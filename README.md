@@ -7,7 +7,7 @@ Hi there! I'm a **Fullstack and Web Developer** with over **9 years** of experie
 During the early years of my development career, I utilized **PHP** and **WordPress** as CMS platforms to deliver tech solutions for various clients. Today, I have evolved my approach by leveraging **Next.js**, **React.js**, **Vercel**, **Node.JS**, **Tailwind**, **PrismaORM** and **PostgreSQL** to create more robust and scalable front-end and back-end solutions.
 
 
-If you'd prefer to connect directly, I can be reached at jeddsaliba@gmail.com.
+If you'd prefer to connect directly, I can be reached at yazzodeleon@gmail.com.
 
 [![Download CV][resume-icon]][resume-url]
 
