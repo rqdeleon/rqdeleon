@@ -16,6 +16,7 @@ If you'd prefer to connect directly, I can be reached at yazzodeleon@gmail.com.
 ## 🛠️ Tools I Use
 
 [![NextJS][nextjs-icon]][nextjs-url]
+[![Supabase][Supabase-icon]][supabase-url]
 [![sanity][sanity-icon]][sanity-url]
 [![typescript][typescript-icon]][typescript-url]
 [![tailwindCSS][tailwindCSS-icon]][tailwindCSS-url]
@@ -70,6 +71,8 @@ If you'd prefer to connect directly, I can be reached at yazzodeleon@gmail.com.
 
 [nextjs-icon]: https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=vercel&logoColor=white
 [nextjs-url]: https://nextjs.org/
+[supabase-icon]: https://img.shields.io/badge/Supabase-034d14?style=for-the-badge&logo=supabase&logoColor=white
+[supabase-url]: https://supabase.com/
 [sanity-icon]: https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white
 [sanity-url]: https://sanity.io
 [tailwindCSS-icon]: https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
