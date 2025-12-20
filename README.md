@@ -32,7 +32,7 @@ If you'd prefer to connect directly, I can be reached at yazzodeleon@gmail.com.
 ## 👨‍💻 My Projects
 
 - <b>Mini Project(s)</b> *(try them out for **FREE!**)*
-  - [NEXTJS CRUD](https://github.com/rqdewise/mybranches)
+  - [Inventory CRUD Mini App](https://inventory-crud-mini-app.vercel.app)
   - [MDX BLOG](https://github.com/rqdeleon/nextblog) 
   - [ADMIN CRUD](https://github.com/rqdeleon/mybranches-app) 
 
