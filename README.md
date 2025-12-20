@@ -32,7 +32,8 @@ If you'd prefer to connect directly, I can be reached at yazzodeleon@gmail.com.
 ## 👨‍💻 My Projects
 
 - <b>Mini Project(s)</b> *(try them out for **FREE!**)*
-  - [Inventory CRUD Mini App](https://inventory-crud-mini-app.vercel.app)
+  1. [Inventory CRUD Mini App](https://inventory-crud-mini-app.vercel.app) *(CRUD,PostgreSQL Database, Reusable UI, Search, Filtering, Paganation )*
+     - [GIT REPO](https://github.com/rqdeleon/admin-dashboard)
   - [MDX BLOG](https://github.com/rqdeleon/nextblog) 
   - [ADMIN CRUD](https://github.com/rqdeleon/mybranches-app) 
 
